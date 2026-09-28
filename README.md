@@ -162,27 +162,6 @@ Real-world Projects
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jyotikhanam&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotikhanam&layout=compact&hide_border=true" height="165" alt="Top Languages">
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotikhanam&hide_border=true" alt="GitHub Contribution Graph">
-
-</div>
-
----
 
 ## 🎯 My Goal
 
