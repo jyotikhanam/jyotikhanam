@@ -4,19 +4,6 @@
 
 ### CSE Graduate · Front-End Developer · UI/UX Designer
 
-<p>
-  <a href="https://github.com/jyotikhanam">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="www.linkedin.com/in/jyoti-khanam-b7379430a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<p>
-  <i>Building clean, responsive and user-friendly web experiences.</i>
-</p>
-
 </div>
 
 
@@ -26,7 +13,7 @@ I'm a **Computer Science graduate** from Bangladesh with an interest in **Front-
 
 I enjoy transforming ideas into responsive and practical interfaces while continuously improving my JavaScript and web development skills through hands-on projects.
 
-* 🎓 **CSE Graduate — 2023**
+* 🎓 **CSE Graduate — 2025**
 * 💻 Focused on **Front-End Development**
 * 🎨 Interested in **UI/UX Design**
 * 🌱 Currently improving **JavaScript**
@@ -55,77 +42,6 @@ I enjoy transforming ideas into responsive and practical interfaces while contin
 </p>
 
 `JavaScript` · `React` · `Web Accessibility` · `Web Performance`
-
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 Movie Explorer
-
-A responsive movie discovery application with API integration, search functionality and a user-friendly interface.
-
-**Tech:** React · JavaScript · API · CSS
-
-</td>
-
-<td width="50%">
-
-### 📋 Lead Generation Form
-
-A responsive project inquiry form with client-side validation, error handling and accessible form interactions.
-
-**Tech:** HTML · CSS · JavaScript
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ❓ FAQ Search Interface
-
-A responsive FAQ interface featuring category filtering, keyword search, expandable questions and highlighted results.
-
-**Tech:** HTML · CSS · JavaScript
-
-</td>
-
-<td width="50%">
-
-### 🔎 Category & Product Search
-
-A responsive search interface allowing users to find and filter products by category and keywords.
-
-**Tech:** HTML · CSS · JavaScript
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚚 Delivery Charge Calculator
-
-A simple responsive calculator that determines delivery charges based on delivery location and package weight.
-
-**Tech:** HTML · CSS · JavaScript
-
-</td>
-
-<td width="50%">
-
-### 🎨 UI/UX Projects
-
-Exploring interface design through wireframes, prototypes, responsive layouts and user-focused design decisions.
-
-**Tools:** Figma · UI/UX Design
-
-</td>
-</tr>
-</table>
 
 
 ## 💡 What I Care About
