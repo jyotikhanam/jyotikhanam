@@ -19,7 +19,6 @@
 
 </div>
 
----
 
 ## 👩‍💻 About Me
 
@@ -34,7 +33,6 @@ I enjoy transforming ideas into responsive and practical interfaces while contin
 * 🚀 Building practical web projects
 * 🤝 Interested in real-world team collaboration
 
----
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +56,6 @@ I enjoy transforming ideas into responsive and practical interfaces while contin
 
 `JavaScript` · `React` · `Web Accessibility` · `Web Performance`
 
----
 
 ## 🚀 Featured Projects
 
@@ -130,7 +127,6 @@ Exploring interface design through wireframes, prototypes, responsive layouts an
 </tr>
 </table>
 
----
 
 ## 💡 What I Care About
 
@@ -144,7 +140,6 @@ Exploring interface design through wireframes, prototypes, responsive layouts an
 
 I believe good web development is not only about making a page work, but also about making it **easy to use, accessible, responsive and maintainable**.
 
----
 
 ## 🌱 Currently Working On
 
@@ -160,14 +155,12 @@ Accessibility & Performance
 Real-world Projects
 ```
 
----
 
 
 ## 🎯 My Goal
 
 > To become a skilled Front-End Developer who can build accessible, responsive and user-friendly web experiences while continuously improving through real-world projects and collaboration.
 
----
 
 ## 📫 Let's Connect
 
